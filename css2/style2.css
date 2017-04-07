@@ -1,0 +1,41 @@
+* {
+text-align:center
+}
+
+h1, h2, h3 {
+font-size:3em;
+}
+
+p {
+font-size:30px;
+}
+
+body {
+background-color: #9bddff;
+height: 100%;
+}
+
+nav: visited {
+  color:#ff2400;
+}
+
+nav: hover {
+color: rgb(201, 223, 255);
+}
+
+nav, nav a {
+  display: inline;
+  padding: 10px 15px;
+  font-size: 1.1em;
+  float: right;
+  list-style: none;
+}
+
+nav ul {
+  list-style: none;
+  color: selected;
+}
+
+nav li {
+  display: selected; 
+}
